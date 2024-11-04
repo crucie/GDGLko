@@ -10,23 +10,16 @@ function EventCard({ event }) {
         style={{ backgroundImage: `url(${grd})` }}
       />
       <div className="w-[70%] h-[100%] flex flex-col pt-4 pb-4">
-        
-        {/* Responsive Date */}
+
         <span className="font-sans text-[clamp(1.5rem, 2vw + 1rem, 2.5rem)]">
           {event.date}
         </span>
-
-        {/* Responsive Title */}
         <span className="font-sans font-bold text-[clamp(2rem, 4vw + 1rem, 3rem)] text-[#343434]">
           {event.title}
         </span>
-
-        {/* Responsive Description */}
         <span className="text-[clamp(1rem, 2vw + 0.5rem, 1.5rem)]">
           {event.description}
         </span>
-
-        {/* Responsive Venue */}
         <span className="font-bold font-sans text-[clamp(1.25rem, 2vw + 1rem, 2rem)]">
           {`Venue: ${event.venue}`}
         </span>
@@ -35,8 +28,6 @@ function EventCard({ event }) {
           <div className="flex flex-row justify-start w-[100%] h-[10%] bottom-0">
             <button className="flex flex-row items-center left-0">
               <img src={arw} alt="" className="max-w-[26px] block" />
-              
-              {/* Responsive 'View Details' Button */}
               <span className="text-[#2D82F1] font-bold font-sans text-[clamp(1rem, 2vw + 0.5rem, 1.5rem)]">
                 View Details
               </span>
