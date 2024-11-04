@@ -1,0 +1,70 @@
+[
+    {
+      "date": "24/10/2024",
+      "title": "Devfest 2024",
+      "description": "Description of the event",
+      "venue": "AKTU",
+      "speakers": "Speaker Names",
+      "sponsors": "Sponsor Names",
+      "image": "path/to/your/image1.jpg",
+      "speakerProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker1.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg"
+      ],
+      "sponsorsProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker4.jpg"
+      ]
+    },
+    {
+      "date": "24/10/2024",
+      "title": "Devfest 2024",
+      "description": "Description of the event",
+      "venue": "AKTU",
+      "speakers": "Speaker Names",
+      "sponsors": "Sponsor Names",
+      "image": "path/to/your/image1.jpg",
+      "speakerProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker1.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg"
+      ],
+      "sponsorsProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker4.jpg"
+      ]
+    },
+    {
+      "date": "24/10/2024",
+      "title": "Devfest 2024",
+      "description": "Description of the event",
+      "venue": "AKTU",
+      "speakers": "Speaker Names",
+      "sponsors": "Sponsor Names",
+      "image": "path/to/your/image1.jpg",
+      "speakerProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker1.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg"
+      ],
+      "sponsorsProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker4.jpg"
+      ]
+    },
+    {
+      "date": "24/10/2024",
+      "title": "Devfest 2024",
+      "description": "Description of the event",
+      "venue": "AKTU",
+      "speakers": "Speaker Names",
+      "sponsors": "Sponsor Names",
+      "image": "path/to/your/image1.jpg",
+      "speakerProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker1.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg"
+      ],
+      "sponsorsProfiles": [
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker2.jpg",
+        "../../assets/EventMedia/Devfest24/Speaker/Speaker4.jpg"
+      ]
+    }
+]
