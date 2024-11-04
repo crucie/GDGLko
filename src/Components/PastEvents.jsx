@@ -16,6 +16,8 @@ function PastEvents() {
           options={{
             type: 'loop',
             perPage: 2,
+            speed: 1000,
+            easing: 'ease', 
             gap: '1rem',
             breakpoints: {
               1024: { perPage: 2 }, // Large screens: 2 cards

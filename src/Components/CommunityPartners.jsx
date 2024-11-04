@@ -1,5 +1,5 @@
 import React from 'react';
-import gdgImage from '../assets/gdglogo.svg'; 
+import gdgImage from '../assets/gdgLogo.svg'; 
 
 
 const partnerLogos = [
